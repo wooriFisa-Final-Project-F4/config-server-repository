@@ -5,6 +5,10 @@
 <br>  
 [config-server repository 보러가기](https://github.com/wooriFisa-Final-Project-F4/config-server)
 
+## Requirements
+
+- 해당 레포지토리는 config-server를 통해 Encyrpt 되었습니다. 해당 레포지토리의 properties의 항목들을 decrypt하기 위해선 Encrypt Key가 필요합니다.
+
 ## 📞Contact
 
 추가 질문이나 문제가 발생했을 때 아래로 연락주세요:)
